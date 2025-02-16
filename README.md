@@ -1,7 +1,7 @@
 A collection of Data Science and Big Data projects.
 In case something is missing or a link is broken, please create an issue [here](https://github.com/vpapaioannou/data_science_projects/issues).
 
-# [Analyze Order Data of an Online Clothing Brand Using Databricks Big Data with Delta Lakes]()
+# [Analyze Order Data of an Online Clothing Brand Using Databricks Big Data with Delta Lakes](https://github.com/vpapaioannou/data_science_and_big_data_projects/tree/main/online_clothing_company)
 
 ## Scope
 
