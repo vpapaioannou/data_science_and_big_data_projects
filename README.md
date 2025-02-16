@@ -5,7 +5,7 @@ In case something is missing or a link is broken, please create an issue [here](
 
 ## Scope
 
-Analyze the order history of an online clothing brand in terms of volume, purchasing behaviour and stock levels.
+Analyze the order history of an online clothing brand in terms of volume, purchasing behaviour and inventory levels.
 
 Visualize the analysis through a dynamic **dashboard**.
 
