@@ -9,14 +9,8 @@ Analyze the order history of an online clothing brand in terms of volume, purcha
 
 Visualize the analysis through a dynamic **dashboard**.
 
-The project was inspired by [padam56/Data-Management-with-Databricks_Big-Data-with-Delta-Lakes](https://github.com/padam56/Data-Management-with-Databricks_Big-Data-with-Delta-Lakes) and his respective Coursera course [Data Management with Databricks: Big Data with Delta Lakes](https://www.coursera.org/projects/data-management-with-databricks-big-data-with-delta-lakes)
-
-## [2. Human Resources Project by IBM](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+## [2. HR Analytics & Predictive Modeling for Employee Attrition]()
 
 ### Scope
 
 Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
-
-### Data
-
-- [Download](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
