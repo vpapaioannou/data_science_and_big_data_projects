@@ -9,7 +9,7 @@ Analyze the order history of an online clothing brand in terms of volume, purcha
 
 Visualize the analysis through a dynamic **dashboard**.
 
-## [2. HR Analytics & Predictive Modeling for Employee Attrition]()
+## [2. HR Analytics & Predictive Modeling for Employee Attrition](https://github.com/vpapaioannou/data_science_and_big_data_projects/tree/main/hr)
 
 ### Scope
 
